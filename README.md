@@ -4,7 +4,7 @@ This repository is for the final project of APM 4990 class in which has 6 files 
 
 &emsp;&emsp;1: Analysis.ipynb. This is our analysis file.
   
-&emsp;&emsp;2: Final Model & Submission.ipynb. This is our final model and prediction procedure.
+&emsp;&emsp;2: Submission.ipynb. This is our prediction procedure.
   
 *sumbission.csv.zip* is the final prediction file and *taxi_data.csv* is our dataset which contains over 160 million records.
 
